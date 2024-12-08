@@ -3,6 +3,8 @@
 
 IDS program for Application Layer DDoS Attack.
 
+Model uses the top 10 features that were most important for classification.
+
 ## Features
 - Network Traffic Capture: Captures real-time packets from a specified network interface.
 - Flow Data Storage: Processes captured packets into flow features and stores them in a CSV file.
